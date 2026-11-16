@@ -5,8 +5,8 @@
         "id": "3381bf27db2816e9f8cd8b2774a796aa46b7b70ddc0d",
         "name": "ledgerline_research_mcp",
         "description": "Authorization for the Ledgerline research MCP server (ledger-demo)",
-        "version": "0.1.1",
+        "version": "0.1.2",
         "created_date": "2026-11-13T21:53:13.971428+00:00",
-        "updated_date": "2026-11-14T19:04:40.793622+00:00"
+        "updated_date": "2026-11-16T12:51:37.946051+00:00"
     }
 }
